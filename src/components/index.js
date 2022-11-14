@@ -13,3 +13,5 @@ export * from './TiltCard/TiltCard';
 export * from './DemoDialog';
 export * from './Dialog';
 export * from './Spinner';
+export * from './Counter';
+export * from './CounterButton';
